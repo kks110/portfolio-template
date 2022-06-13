@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.border {
+  border: 1px solid;
+  border-radius: 16px;
+  padding: 15px;
+}
+
+.boarder-top {
+  border-top: 1px solid;
+}
+
+ul li, ol li {
+  margin-bottom: 0;
+}

@@ -1,0 +1,99 @@
+---
+permalink: /
+layout: single
+author_profile: true
+duties:
+    - Duty 1
+    - Duty 2
+    - Duty 3
+    - Duty 4
+    - Duty 5
+    - Duty 6
+    - Duty 7
+    - Duty 8
+    - Duty 9
+    - Duty 10
+    - Duty 11
+    - Duty 12
+    - Duty 13
+    - Duty 14
+    - Duty 15
+    - Duty 16
+    - Duty 17
+    - Duty 18
+    - Duty 19
+    - Duty 20
+    - Duty 21
+    - K1
+    - K2
+    - K3
+    - K4
+    - K5
+    - K6
+    - K7
+    - K8
+    - K9
+    - K10
+    - K11
+    - K12
+    - S1
+    - S2
+    - S3
+    - S4
+    - S5
+    - S6
+    - S7
+    - S8
+    - S9
+    - S10
+    - S11
+    - S12
+    - S13
+    - S14
+    - S15
+    - S16
+    - S17
+    - B1
+    - B2
+    - B3
+    - B4
+    - B5
+    - B6
+    - B7
+    - B8
+    - B9
+---
+
+{% for portfolio_page in site.portfolio %}
+  <div class="border">
+    <a href="{{ portfolio_page.url }}">{% increment counter %}. {{ portfolio_page.title }}</a>
+    <p>{{ portfolio_page.summary }}</p>
+  </div>
+  <br>
+{% endfor %}
+
+
+<table>
+    <tr>
+        <th></th>
+        {% for portfolio_page in site.portfolio %}
+            <th><a href="{{ portfolio_page.url }}">{% increment table_counter %}</a></th>
+        {% endfor %}
+    </tr>
+    {% for duty in page.duties %}
+        <tr>
+            <td>{{ duty }}</td>
+            {% for portfolio_page in site.portfolio %}
+                {% if portfolio_page.duties contains duty %}
+                    <td>
+                        <img src="/assets/images/green.svg" alt="" width="32" height="32">
+                    </td>
+                {% else %}
+                    <td>
+                        <img src="/assets/images/red.svg" alt="" width="32" height="32">
+                    </td>
+                {% endif %}
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>

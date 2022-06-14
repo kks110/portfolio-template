@@ -10,7 +10,7 @@ duties:
     - Duty 21
 ---
 
-This evidence details how I did a biger thing. In it, I demonstrate how I completed lots of duties.
+This evidence details how I did a bigger thing. In it, I demonstrate how I completed lots of duties.
 
 Here is a larger piece of code
 ```ruby
@@ -18,7 +18,7 @@ class PokeSelector
   attr_reader :pokemon
 
   def initialize
-    @pokemon = ['Growlithe', 'Ralts', 'Shpheal']
+    @pokemon = ['Growlithe', 'Ralts', 'Spheal']
   end
 
   def select_pokemon

@@ -34,7 +34,7 @@ permalink: /duties_and_ksbs/
 ## Duty 1 
 Take and interpret given software development requirements to estimate effort to deliver the work product to enable accurate costs to be established.
 
-Knowladge: 
+Knowledge: 
 [K1](#k1) 
 [K2](#k2) 
 [K3](#k3) 
@@ -56,7 +56,7 @@ Behaviours:
 ## Duty 2 
 Break software development activities down into logical units of work to enable sequencing and ensure the best possible structuring of activities to deliver a high quality product right first time.
 
-Knowladge: 
+Knowledge: 
 [K1](#k1)
 [K3](#k3)
 [K6](#k6)
@@ -79,7 +79,7 @@ Behaviours:
 ## Duty 3 
 Report progress accurately throughout the development life-cycle stages to ensure adequate audit trails of key worksteps such that the organisation can demonstrate how the product has been created for quality and commercial purposes.
 
-Knowladge: 
+Knowledge: 
 [K1](#k1)
 [K2](#k2)
 [K3](#k3)
@@ -98,7 +98,7 @@ Behaviours:
 ## Duty 4
 Identify and report any impediments to software development activities and propose practical solutions.
 
-Knowladge: 
+Knowledge: 
 [K7](#k7)
 [K10](#k10)
 
@@ -118,7 +118,7 @@ Behaviours:
 ## Duty 5
 Convert customer requirements into technical requirements, both functional and non-functional to ensure that customers' expectations are accurately reflected in the software products developed.
 
-Knowladge:
+Knowledge:
 [K1](#k1)
 [K2](#k2)
 [K3](#k3)
@@ -145,7 +145,7 @@ Behaviours:
 ## Duty 6 
 Identify and select the most appropriate technical solution, taking into consideration coding best practice and appropriate quality standards.
 
-Knowladge:
+Knowledge:
 [K7](#k7)
 [K9](#k9)
 [K10](#k10)
@@ -171,7 +171,7 @@ Behaviours:
 ## Duty 7 
 Communicate software development solutions to a range of internal or external stakeholders to ensure clear understanding of requirements and how they have been met or adjusted.
 
-Knowladge:
+Knowledge:
 [K1](#k1)
 [K2](#k2)
 [K3](#k3)
@@ -192,7 +192,7 @@ Behaviours:
 ## Duty 8 
 Consider security implications of proposed design to ensure that security considerations are built in from inception and throughout the development process.
 
-Knowladge:
+Knowledge:
 [K7](#k7)
 [K8](#k8)
 [K11](#k11)
@@ -212,9 +212,9 @@ Behaviours:
 ***
 
 ## Duty 9 
-Write logical and maintainable software solutions to meet the design and organisational coding standards (Software Development Lifecycle -Implementation and Build phase).
+Write logical and maintainable software solutions to meet the design and organisational coding standards (Software Development Life-cycle -Implementation and Build phase).
 
-Knowladge:
+Knowledge:
 [K9](#k9)
 [K11](#k11)
 
@@ -237,7 +237,7 @@ Behaviours:
 ## Duty 10
 Apply security best practice to the software solution throughout the software development life-cycle.
 
-Knowladge:
+Knowledge:
 [K7](#k7)
 [K8](#k8)
 
@@ -254,7 +254,7 @@ Behaviours:
 ## Duty 11 
 Create and maintain appropriate project documentation to explain the development process and resources used.
 
-Knowladge:
+Knowledge:
 [K1](#k1)
 [K3](#k3)
 [K5](#k5)
@@ -270,9 +270,9 @@ Behaviours:
 ***
 
 ## Duty 12 
-Apply appropriate recovery techniques to ensure the software solution being developed is not lost (Software Development Lifecycle -Implementation and Build phase).
+Apply appropriate recovery techniques to ensure the software solution being developed is not lost (Software Development Life-cycle -Implementation and Build phase).
 
-Knowladge:
+Knowledge:
 [K7](#k7)
 
 Behaviours:
@@ -284,7 +284,7 @@ Behaviours:
 ## Duty 13 
 Implement appropriate change control to ensure that software development changes may be tracked and quality risks managed.
 
-Knowladge:
+Knowledge:
 [K1](#k1)
 [K2](#k2)
 [K3](#k3)
@@ -298,9 +298,9 @@ Behaviours:
 ***
 
 ## Duty 14 
-Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and, where necessary, resolve issues (Software Development Lifecycle -Implementation and Build phase).
+Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and, where necessary, resolve issues (Software Development Life-cycle -Implementation and Build phase).
 
-Knowladge:
+Knowledge:
 [K9](#k9)
 [K11](#k11)
 [K12](#k12)
@@ -318,9 +318,9 @@ Behaviours:
 ***
 
 ## Duty 15 
-Perform testing of the software solution to ensure a high quality output (Software Development Lifecycle -Test phase).
+Perform testing of the software solution to ensure a high quality output (Software Development Life-cycle -Test phase).
 
-Knowladge:
+Knowledge:
 [K9](#k9)
 [K11](#k11)
 [K12](#k12)
@@ -339,9 +339,9 @@ Behaviours:
 ***
 
 ## Duty 16 
-Deliver a suitably documented deployable solution to the customer for their use (Software Development Lifecycle -Deploy phase).
+Deliver a suitably documented deployable solution to the customer for their use (Software Development Life-cycle -Deploy phase).
 
-Knowladge:
+Knowledge:
 [K1](#k1)
 [K2](#k2)
 [K3](#k3)
@@ -362,7 +362,7 @@ Behaviours:
 ## Duty 17 
 Support delivery of one or more software deployment phases, such as trials and final release, to ensure that software developer outcomes are deployed correctly.
 
-Knowladge:
+Knowledge:
 [K2](#k2)
 [K5](#k5)
 [K6](#k6)
@@ -383,7 +383,7 @@ Behaviours:
 ## Duty 18 
 Provide support during software trials and after final release to ensure that customers understand and can correctly apply the product, and risks are mitigated.
 
-Knowladge:
+Knowledge:
 [K2](#k2)
 [K5](#k5)
 
@@ -396,7 +396,7 @@ Behaviours:
 ## Duty 19 
 Respond appropriately to given Service Level Agreements (SLAs) to ensure that time and resources invested in software development activity are allocated appropriately to deliver good customer service.
 
-Knowladge:
+Knowledge:
 [K1](#k1)
 [K2](#k2)
 [K3](#k3)
@@ -419,7 +419,7 @@ Behaviours:
 ## Duty 20 
 Apply suitable 'bug fix', appropriate to the severity and priority of the software development issue identified.
 
-Knowladge:
+Knowledge:
 [K12](#k12)
 
 Skills:
@@ -448,7 +448,7 @@ Behaviours:
 ###### K1 
 All stages of the software development life-cycle (what each stage contains, including the inputs and outputs)
 ###### K2 
-Roles and responsibilities within the software development lifecycle (who is responsible for what)
+Roles and responsibilities within the software development life-cycle (who is responsible for what)
 ###### K3
 The roles and responsibilities of the project life-cycle within your organisation, and your role
 ###### K4

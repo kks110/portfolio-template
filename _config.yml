@@ -45,7 +45,7 @@ include: ["_pages"]
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title:output_ext
 
 defaults:
   # _portfolio

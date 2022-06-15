@@ -1,7 +1,7 @@
 ---
 title: 21 Duties and KSBs
 layout: single
-permalink: /duties_and_ksbs/
+permalink: /duties_and_ksbs.html
 ---
 
 [Duties](#duties) | [Duty 1](#duty-1)   | [Duty 2](#duty-2)   | [Duty 3](#duty-3)   | [Duty 4](#duty-4)   | [Duty 5](#duty-5)   | [Duty 6](#duty-6)   |

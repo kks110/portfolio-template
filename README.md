@@ -17,7 +17,7 @@ To get it running all you need to do it is:
 bundle
 bundle exec jekyll serve
 ```
-It will be then be available to view at `http://127.0.0.1:4000/`
+It will then be available to view at `http://127.0.0.1:4000/`
 
 ### Homescreen
 ![Homescreen](readme_images/homescreen.png)

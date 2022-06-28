@@ -3,28 +3,46 @@ permalink: /index.html
 layout: single
 author_profile: true
 classes: wide
-duties:
-    - Duty 1
-    - Duty 2
-    - Duty 3
-    - Duty 4
-    - Duty 5
-    - Duty 6
-    - Duty 7
-    - Duty 8
-    - Duty 9
-    - Duty 10
-    - Duty 11
-    - Duty 12
-    - Duty 13
-    - Duty 14
-    - Duty 15
-    - Duty 16
-    - Duty 17
-    - Duty 18
-    - Duty 19
-    - Duty 20
-    - Duty 21
+ksbs:
+    - K1
+    - K2
+    - K3
+    - K4
+    - K5
+    - K6
+    - K7
+    - K8
+    - K9
+    - K10
+    - K11
+    - K12
+    - S1
+    - S2
+    - S3
+    - S4
+    - S5
+    - S6
+    - S7
+    - S8
+    - S9
+    - S10
+    - S11
+    - S12
+    - S13
+    - S14
+    - S15
+    - S16
+    - S17
+    - B1
+    - B2
+    - B3
+    - B4
+    - B5
+    - B6
+    - B7
+    - B8
+    - B9
+
 ---
 
 {% for portfolio_page in site.portfolio %}
@@ -43,11 +61,11 @@ duties:
             <th><a href="{{ portfolio_page.url }}">{% increment table_counter %}</a></th>
         {% endfor %}
     </tr>
-    {% for duty in page.duties %}
+    {% for ksb in page.ksbs %}
         <tr>
-            <td>{{ duty }}</td>
+            <td>{{ ksb }}</td>
             {% for portfolio_page in site.portfolio %}
-                {% if portfolio_page.duties contains duty %}
+                {% if portfolio_page.ksbs contains ksb %}
                     <td>
                         <img src="/assets/images/green.svg" alt="" width="32" height="32">
                     </td>

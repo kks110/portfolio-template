@@ -1,13 +1,13 @@
 ---
 title: "Second piece of evidence"
 summary: "Piece of evidence where I did some other thing"
-duties:
-    - Duty 2
-    - Duty 5
-    - Duty 7
-    - Duty 17
-    - Duty 19
-    - Duty 21
+ksbs:
+    - K11
+    - K12
+    - S2
+    - S7
+    - B2
+    - B9
 ---
 
 This evidence details how I did a bigger thing. In it, I demonstrate how I completed lots of duties.

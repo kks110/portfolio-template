@@ -2,8 +2,11 @@
 title: "First piece of evidence"
 summary: "Piece of work when I did a thing."
 duties: 
-    - Duty 1
-    - Duty 2
+    - K3
+    - K11
+    - S1
+    - S7
+    - B3
 ---
 
 This evidence details how I did a thing. In it, I demonstrate how I completed duties 1 and 2.

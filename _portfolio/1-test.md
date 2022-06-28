@@ -1,7 +1,7 @@
 ---
 title: "First piece of evidence"
 summary: "Piece of work when I did a thing."
-duties: 
+ksbs: 
     - K3
     - K11
     - S1
